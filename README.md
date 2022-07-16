@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
 
 ## About
-Aplication created to learn about authentication. 
+Aplication created to learn about authentication.  
 App created at Rocketseat's Ignite course.
 
 ## :pushpin: Table of contents
